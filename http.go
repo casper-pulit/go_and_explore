@@ -37,6 +37,6 @@ func main() {
 	//fmt.Println(getContent("https://medium.com/@func25/golang-secret-how-to-add-default-values-to-function-parameters-60bd1e9625dc", true))
 
 	fmt.Println("Secure true, non-trusted website")
-	fmt.Println(getContent("https://cybershoke.net/cs2/servers/dm", true))
+	fmt.Println(getContent("https://www.hltv.org/matches/2370618/koi-vs-furia-pgl-cs2-major-copenhagen-2024-opening-stage", true))
 
 }
