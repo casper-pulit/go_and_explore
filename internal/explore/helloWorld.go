@@ -1,4 +1,4 @@
-package hello
+package explore
 
 import (
 	"fmt"
