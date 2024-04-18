@@ -1,9 +1,5 @@
 package explore
 
-import (
-	"fmt"
-)
-
-func helloWorld() {
-	fmt.Println("Hello World!")
+func helloWorld() string {
+	return ("Hello World!")
 }
