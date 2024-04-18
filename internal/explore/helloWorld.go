@@ -1,5 +1,5 @@
 package explore
 
-func helloWorld() string {
+func HelloWorld() string {
 	return ("Hello World!")
 }
