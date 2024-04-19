@@ -12,4 +12,5 @@ func main() {
 	fmt.Println(explore.HelloWorld())
 	explore.Values()
 	explore.Variables()
+	explore.Constants()
 }
