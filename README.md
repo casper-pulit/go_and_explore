@@ -4,7 +4,7 @@
 
 - [ ] [Go by Example](https://gobyexample.com/)
   - [x] [Hello World](https://gobyexample.com/hello-world)
-  - [ ] [Values](https://gobyexample.com/values)
+  - [x] [Values](https://gobyexample.com/values)
   - [ ] [Variables](https://gobyexample.com/variables)
   - [ ] [Constants](https://gobyexample.com/constants)
   - [ ] [For](https://gobyexample.com/for)
